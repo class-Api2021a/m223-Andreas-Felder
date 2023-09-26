@@ -1,8 +1,8 @@
 package com.ubs.data.dto;
 
-import com.sun.org.apache.xerces.internal.impl.dv.DatatypeException;
 
-import java.util.Date;
+
+import java.sql.Date;
 
 public class Konto {
     private double Kontonummer;

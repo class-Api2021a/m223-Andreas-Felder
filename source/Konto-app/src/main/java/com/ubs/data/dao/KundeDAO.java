@@ -3,20 +3,19 @@ package com.ubs.data.dao;
 import com.ubs.data.dto.Kunde;
 import com.ubs.data.dto.Konto;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import jakarta.inject.Inject;
+import jakarta.inject.Named;
+
+import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class KundeDAO {
     private Connection connection; // Your database connection goes here
 
-    public KundeDAO(Connection connection) {
-        this.connection = connection;
+    public KundeDAO(Connection con) {
+        this.connection = con;
     }
-
     public void createKunde(Kunde kunde) {
         String insertQuery = "INSERT INTO kunde (kontaktdaten, kunden_namen, geburtsdatum) VALUES (?, ?, ?)";
 
@@ -29,6 +28,28 @@ public class KundeDAO {
         } catch (SQLException e) {
             e.printStackTrace();
             // Handle the exception appropriately
+        }
+    }
+
+    public List<Kunde> getAllKunden() throws Exception {
+        List<Kunde> list = new ArrayList<Kunde>();
+        String sql = "SELECT * FROM kunde";
+        try {
+            Statement stmt = connection.createStatement();
+            ResultSet rs = stmt.executeQuery(sql);
+            while (rs.next()) {
+                list.add(
+                        new Kunde(
+                        rs.getString("kontaktdaten"),
+                        rs.getString("kundennamen"),
+                        rs.getDate("Geburtsdatum"),
+                        new ArrayList<Konto>()));
+            }
+            System.out.println(list.size() +" Kunden gefunden");
+        } catch(Exception e){
+            System.out.println(e);
+        }finally {
+            return list;
         }
     }
 

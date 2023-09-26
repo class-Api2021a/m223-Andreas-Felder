@@ -10,6 +10,13 @@ public class Kunde {
     private Date Geburtsdatum;
     private List<Konto> Konten;
 
+    public Kunde(String kontaktdaten, String kundenNamen, Date geburtsdatum, List<Konto> konten) {
+        Kontaktdaten = kontaktdaten;
+        KundenNamen = kundenNamen;
+        Geburtsdatum = geburtsdatum;
+        Konten = konten;
+    }
+
     public String getKontaktdaten() {
         return Kontaktdaten;
     }
