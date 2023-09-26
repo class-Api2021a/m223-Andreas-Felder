@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DAOBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DatabaseProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/RaumreservierungDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Raumreservierung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/interfaces/ISQLOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/setExtractors/KontoExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/expections/TransactionFailedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/com/ubs/data/dao/RaumreservierungDAOTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Konto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Konto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Kunde.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KontoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KontoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KundeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KundeDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/jdbc/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/jdbc/DatabaseConnection.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,37 +27,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "last_directory_selection": "C:/git-reps/m223-Andreas-Felder/source/Konto-App/src/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/git-reps/m223-Andreas-Felder/source/Konto-App/src/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ubs.data.dao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\java" />
       <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\webapp\WEB-INF" />
       <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\webapp" />
       <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\java\com\ubs" />
@@ -143,6 +125,7 @@
       <updated>1695634601973</updated>
       <workItem from="1695634603029" duration="11651000" />
       <workItem from="1695709425541" duration="16509000" />
+      <workItem from="1695737946275" duration="387000" />
     </task>
     <servers />
   </component>
