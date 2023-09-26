@@ -1,0 +1,8 @@
+com\ubs\configuration\DAOBuilder.class
+com\ubs\data\dto\Konto.class
+com\ubs\data\dao\KontoDAO.class
+com\ubs\data\jdbc\DatabaseConnection.class
+com\ubs\App.class
+com\ubs\configuration\DatabaseProducer.class
+com\ubs\data\dto\Kunde.class
+com\ubs\data\dao\KundeDAO.class

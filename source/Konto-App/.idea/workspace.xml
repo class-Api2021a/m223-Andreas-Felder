@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DAOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DatabaseProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/RaumreservierungDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Raumreservierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/interfaces/ISQLOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/setExtractors/KontoExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/expections/TransactionFailedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/ubs/data/dao/RaumreservierungDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Konto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Konto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Kunde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Kunde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KontoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KontoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KundeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dao/KundeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/data/jdbc/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/jdbc/DatabaseConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2VspNMX2ZPOJ89L7w2iN0MyD9J6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "last_directory_selection": "C:/git-reps/m223-Andreas-Felder/source/Konto-App/src/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ubs.data.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\webapp\WEB-INF" />
+      <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\webapp" />
+      <recent name="C:\git-reps\m223-Andreas-Felder\source\Konto-App\src\main\java\com\ubs" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ubs.data.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+        <option value="com.poratu.idea.plugins.tomcat" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ubs.App" />
+      <module name="Konto-App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaumreservierungDAOTest.testCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Konto-App" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ubs.data.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ubs.data.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.ubs.data.dao.RaumreservierungDAOTest" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.RaumreservierungDAOTest.testCreate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="" />
+      <created>1695634601973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695634601973</updated>
+      <workItem from="1695634603029" duration="11651000" />
+      <workItem from="1695709425541" duration="16509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ubs/data/dao/RaumreservierungDAO.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
