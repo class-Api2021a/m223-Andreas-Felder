@@ -11,7 +11,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 
-public class DAOBuilder {
+public class  DAOBuilder {
 
     @Produces
     @Named("kontoDAO")

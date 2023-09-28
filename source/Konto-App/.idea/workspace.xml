@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="" />
+    <list default="true" id="ea555845-d6c3-4cae-b773-8d8a0855928f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ubs/data/dto/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DAOBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ubs/configuration/DAOBuilder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit3 Test Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -126,6 +133,8 @@
       <workItem from="1695634603029" duration="11651000" />
       <workItem from="1695709425541" duration="16509000" />
       <workItem from="1695737946275" duration="387000" />
+      <workItem from="1695796265550" duration="925000" />
+      <workItem from="1695806969483" duration="4517000" />
     </task>
     <servers />
   </component>
